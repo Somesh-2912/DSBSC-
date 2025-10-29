@@ -76,7 +76,8 @@ Output Graph
 
 Tablular Column
 
-![WhatsApp Image 2025-10-20 at 16 33 38_ef7ae920](https://github.com/user-attachments/assets/48c78327-c3eb-4ac5-8076-95b727570ce8)
+![WhatsApp Image 2025-10-29 at 16 06 04_f971376f](https://github.com/user-attachments/assets/21b6ba77-eb0a-4739-a02e-c7bbf6dce953)
+
 
 
 Result
